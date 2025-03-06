@@ -585,7 +585,7 @@ end)
 
 local killSayEnabled = false
 local killSayMessages = {
-    Pekeis a free script and u die to it..", 
+    "Peke is a free script and u die to it..", 
     "Must be hard without Peke 💔", 
     "Why aim when Peke does it for you?",
     "Bros not on Peke already 😂",
